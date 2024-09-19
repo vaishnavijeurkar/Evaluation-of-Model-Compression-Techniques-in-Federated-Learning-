@@ -1,4 +1,4 @@
-# **Evaluation of Model Compression Techniques in Federated Learning under bandwidth constraints**
+# **Evaluation of Model Compression Techniques in Federated Learning under bandwidth considerations**
 
 This repository contains the code, data, and experiments for the project titled **"Evaluation of Model Compression Techniques in Federated Learning under bandwidth considerations"**. The project investigates the application of structured and unstructured pruning as model compression algorithms within the context of federated learning, focusing on scenarios with bandwidth-constrained devices.
 
